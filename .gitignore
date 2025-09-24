@@ -1,0 +1,18 @@
+# Arquivo .gitignore para projeto Python/Discord
+
+# Ignorar arquivos de ambiente/senha
+.env
+
+# Arquivos compilados Python
+__pycache__/
+*.pyc
+
+# Pastas/arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+
+# Outras configurações recomendadas
+*.log
