@@ -1,6 +1,6 @@
 # BootDiscord
 
-Este é um projeto de bot para Discord usando Python.
+Este é um projeto de bot para Discord usando Python, que com o comando **$meme** o bot retorna um meme aleatório do reddit.
 
 ## Funcionalidades
 
